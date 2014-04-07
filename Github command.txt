@@ -1,0 +1,6 @@
+/*Git hub in GitBash*/
+
+git config --global user.name "name"
+git config --global user.email "xx@xx" /*match with github account*/
+git config --list;
+
